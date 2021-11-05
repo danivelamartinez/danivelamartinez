@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Vela
-- 🌱 I’m currently learning .NET in a bootcamp (Fundació Esplai)
+- 🌱 I am a web developer and programmer
 - 💞️ I’m searching work
 
 <!---
