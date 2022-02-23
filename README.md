@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Vela
-- 🌱 I am a full stak developer
+- 🌱 I'm a Full Stack Developer
 - 💞️ Currently, I'm learning Digital Illustration with Photoshop on my own 
 
 <!---
